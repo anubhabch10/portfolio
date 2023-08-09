@@ -608,6 +608,11 @@ span {
   .about-img img {
     width: 90vw;
   }
+#embed-map-canvas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
   .footer {
     flex-direction: column-reverse;
